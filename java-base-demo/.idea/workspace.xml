@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03d3d345-c404-4e76-88d1-3ceea26a7db7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/common-interview/src/main/java/com/password/KaiSaPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/niukewang/PrimeFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/CountTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ThreadPoolTraceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/TraceThreadPoolExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-interview/src/main/java/com/algotithm/RecursiveDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-interview/src/main/java/com/algotithm/RecursiveDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/SecurityManagerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/SecurityManagerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/DaemonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/DaemonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/InterfaceA.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/InterfaceA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/InterruptedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/InterruptedDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/JoinDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/JoinDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/PriorityDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/PriorityDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/SuspendDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/SuspendDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/SynchronizedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/SynchronizedDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/ThreadGroupDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/ThreadGroupDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/ThreadStatusDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/ThreadStatusDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/ThreadStopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/ThreadStopDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/VolatileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/VolatileDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/WaitDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/base/WaitDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/ConditionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/ConditionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/CountdownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/CountdownLatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/CyclicBarrierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/CyclicBarrierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/FailLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/FailLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/LockSupportDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/LockSupportDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/ReadWriteLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/ReadWriteLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/ReenterLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/ReenterLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/SemaphoreDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/SemaphoreDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ExtendThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ExtendThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/RejectThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/RejectThreadPoolDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ScheduledThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ScheduledThreadPoolDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ThreadFactoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ThreadFactoryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ThreadPoolDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/SecurityManagerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/SecurityManagerDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/threadpool/ExtendThreadPool$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/threadpool/ExtendThreadPool$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/threadpool/ExtendThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/threadpool/ExtendThreadPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/NumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/NumberGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/ObserverOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/ObserverOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/ObserverTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/ObserverTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/RandomNumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/RandomNumberGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/javaapi/ChangeObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/javaapi/ChangeObservable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/javaapi/ChangeObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/observer/javaapi/ChangeObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt2/ClonableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt2/ClonableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt2/EnumDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt2/EnumDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt2/FinalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt2/FinalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt2/InnerClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt2/InnerClassDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt2/StackTraceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt2/StackTraceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt2/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt2/StringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt2/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt2/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt2/pk1/reuseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt2/pk1/reuseDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt3/generic/GenericParameterTypeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt3/generic/GenericParameterTypeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt3/generic/GenericTypeInfoDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt3/generic/GenericTypeInfoDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt3/generic/GenericWildcardsTypeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt3/generic/GenericWildcardsTypeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt3/generic/TypeInferDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt3/generic/TypeInferDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt3/method/MethodArgumentsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt3/method/MethodArgumentsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt3/method/MethodReturnTypeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt3/method/MethodReturnTypeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/ActionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/ActionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/ConsumerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/ConsumerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/FunctionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/FunctionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/FunctionDesignDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/FunctionDesignDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/FunctionInterfaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/FunctionInterfaceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/PredicateDesignDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/PredicateDesignDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/SupplierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/SupplierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/SupplierDesignDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt4/functional/SupplierDesignDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt4/stream/StreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt4/stream/StreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession1/src/main/java/charpt4/stream/StreamSeniorOperationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/src/main/java/charpt4/stream/StreamSeniorOperationDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual-machine-demo/src/main/java/com/test/FinalizeEscapeGC.java" beforeDir="false" afterPath="$PROJECT_DIR$/virtual-machine-demo/src/main/java/com/test/FinalizeEscapeGC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual-machine-demo/src/main/java/com/test/GcDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/virtual-machine-demo/src/main/java/com/test/GcDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual-machine-demo/src/main/java/com/test/OOMDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/virtual-machine-demo/src/main/java/com/test/OOMDemo.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java-base-demo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1RpkKdrMfSDu8XuJ0YemQvx4NwW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="*LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;ForkJoinTask&#9;PSI&#9;JAVA://java.util.concurrent.ForkJoinTask&#10;Runnable&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/jre/lib/rt.jar!/java/lang/Runnable.class&#10;Thread&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;ThreadPoolEx&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;Observable&#9;PSI&#9;JAVA://java.util.Observable&#10;Observer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/jre/lib/rt.jar!/java/util/Observer.class&#10;lis&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/List.java&#10;List&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Arr&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Array&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Arrays.java&#10;Integer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Integer.java&#10;Inte&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Integer.java&#10;Collec&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collection.java&#10;Call&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/concurrent/Callable.java&#10;Predi&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Predicate.java&#10;Function&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Function.java&#10;Consu&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Consumer.java&#10;MethodHandle&#9;PSI&#9;JAVA://java.lang.invoke.MethodHandle&#10;Method&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/jre/lib/rt.jar!/java/lang/reflect/Method.class&#10;InvokeDynamic&#9;PSI&#9;JAVA://java.lang.invoke.InvokeDynamic&#10;System&#9;PSI&#9;JAVA://java.lang.System&#10;Supplier&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Supplier.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;FunctionInter&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/FunctionalInterface.java&#10;Stream&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/stream/Stream.java&#10;Runna&#9;PSI&#9;JAVA://java.lang.Runnable&#10;Collection&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collection.java&#10;Collector&#9;PSI&#9;JAVA://java.util.stream.Collector&#10;FunctionIn&#9;PSI&#9;JAVA://java.lang.FunctionalInterface&#10;Arraylist&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;SortedSe&#9;PSI&#9;JAVA://java.util.SortedSet&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;Consumer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Consumer.java&#10;Float&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Float.java&#10;Char&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Character.java&#10;Short&#9;PSI&#9;JAVA://java.lang.Short&#10;Colle&#9;PSI&#9;JAVA://java.util.Collection&#10;biC&#9;PSI&#9;JAVA://java.util.function.BiConsumer&#10;BigInteger&#9;PSI&#9;JAVA://java.math.BigInteger&#10;UnmodifiableCollection&#9;PSI&#9;JAVA://java.util.Collections.UnmodifiableCollection&#10;Enum&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Enum.java&#10;OutputS&#9;PSI&#9;JAVA://java.io.OutputStream&#10;OutPutStream&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/io/DataOutputStream.java&#10;Clone&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Cloneable.java&#10;Col&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collections.java&#10;Builder&#9;PSI&#9;JAVA://java.util.stream.DoubleStream.Builder&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;EventListener&#9;PSI&#9;JAVA://java.util.EventListener" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../demo/pom.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.38613862" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pattern.observer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pattern.observer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\learn_projects\gupaocodepersonal\github-syn\2019\java-base-demo\lession1\src\main\java\charpt3\generic" />
+      <recent name="D:\projects\learn_projects\gupaocodepersonal\github-syn\2019\java-base-demo\lession1\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.KaiSaPassword">
+    <configuration default="true" type="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KaiSaPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.password.KaiSaPassword" />
+      <module name="common-interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.password.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOMDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.7" />
+      <option name="MAIN_CLASS_NAME" value="com.test.OOMDemo" />
+      <module name="virtual-machine-demo" />
+      <option name="VM_PARAMETERS" value="-XX:MaxDirectMemorySize=10M" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algotithm.RecursiveDemo" />
+      <module name="common-interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algotithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityManagerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SecurityManagerDemo" />
+      <module name="concorrent-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuspendDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.base.SuspendDemo" />
+      <module name="concorrent-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Test" />
+      <module name="concorrent-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadFactoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.threadpool.ThreadFactoryDemo" />
+      <module name="concorrent-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolTraceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.threadpool.ThreadPoolTraceDemo" />
+      <module name="concorrent-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="common-interview" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.OOMDemo" />
+      <item itemvalue="Application.RecursiveDemo" />
+      <item itemvalue="Application.SuspendDemo" />
+      <item itemvalue="Application.SecurityManagerDemo" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.ThreadFactoryDemo" />
+      <item itemvalue="Application.ThreadPoolTraceDemo" />
+      <item itemvalue="Application.KaiSaPassword" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KaiSaPassword" />
+        <item itemvalue="Application.ThreadPoolTraceDemo" />
+        <item itemvalue="Application.ThreadFactoryDemo" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SecurityManagerDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03d3d345-c404-4e76-88d1-3ceea26a7db7" name="Default" comment="" />
+      <created>1566297349911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566297349911</updated>
+      <workItem from="1566297353518" duration="2468000" />
+      <workItem from="1566304754110" duration="70800000" />
+      <workItem from="1569313552708" duration="6681000" />
+      <workItem from="1569392119715" duration="44000" />
+      <workItem from="1569933637448" duration="6407000" />
+      <workItem from="1569941581571" duration="416000" />
+      <workItem from="1570371363905" duration="29341000" />
+      <workItem from="1570711995210" duration="2759000" />
+      <workItem from="1570933489188" duration="5629000" />
+      <workItem from="1570964129419" duration="33723000" />
+      <workItem from="1571316309504" duration="7235000" />
+      <workItem from="1571403839288" duration="28161000" />
+      <workItem from="1572061360639" duration="595000" />
+      <workItem from="1572353103046" duration="3504000" />
+      <workItem from="1572675615102" duration="630000" />
+      <workItem from="1572861939387" duration="846000" />
+      <workItem from="1572866146199" duration="5420000" />
+      <workItem from="1572916244931" duration="4014000" />
+      <workItem from="1573046217256" duration="1300000" />
+      <workItem from="1573121873315" duration="8560000" />
+      <workItem from="1573353559121" duration="4282000" />
+      <workItem from="1573388052492" duration="1714000" />
+      <workItem from="1573435839817" duration="7993000" />
+      <workItem from="1573566063355" duration="609000" />
+      <workItem from="1573998562781" duration="3400000" />
+      <workItem from="1574037633511" duration="603000" />
+      <workItem from="1574297223447" duration="603000" />
+      <workItem from="1574338469468" duration="2870000" />
+      <workItem from="1574382991488" duration="1181000" />
+      <workItem from="1574471226230" duration="4928000" />
+      <workItem from="1574824573074" duration="730000" />
+      <workItem from="1574827752367" duration="6000" />
+      <workItem from="1575007338142" duration="793000" />
+      <workItem from="1575011523835" duration="2000" />
+      <workItem from="1575190242747" duration="1250000" />
+      <workItem from="1575535863668" duration="2399000" />
+      <workItem from="1576049992486" duration="1804000" />
+      <workItem from="1576132871593" duration="2458000" />
+      <workItem from="1576216719780" duration="207000" />
+      <workItem from="1576457320839" duration="2503000" />
+      <workItem from="1576567009445" duration="819000" />
+      <workItem from="1576631918525" duration="5665000" />
+      <workItem from="1577841964466" duration="144000" />
+      <workItem from="1577842818597" duration="696000" />
+      <workItem from="1577848334573" duration="2510000" />
+      <workItem from="1578579524412" duration="250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_base_demo$SynchronizedDemo.ic" NAME="SynchronizedDemo Coverage Results" MODIFIED="1571236850691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.base.*</FILTER>
+    </SUITE>
+  </component>
+</project>
