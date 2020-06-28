@@ -9,7 +9,7 @@ public class RejectThreadPoolDemo {
         public void run() {
             System.out.println(Thread.currentThread().getName() + " is running");
             try {
-                Thread.sleep(1000);
+                Thread.sleep(200);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
@@ -37,5 +37,10 @@ public class RejectThreadPoolDemo {
             service.submit(task);
             Thread.sleep(10);
         }
+    }
+
+
+    public static ExecutorService generateExecutor(){
+        return Executors.newFixedThreadPool(5);
     }
 }
