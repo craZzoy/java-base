@@ -1,81 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="03d3d345-c404-4e76-88d1-3ceea26a7db7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/optimize/ThreadLocalDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/optimize/ThreadLocalDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/future/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/future/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/future/FutureData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/future/FutureMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/future/RealData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/future/jdk/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/future/jdk/RealData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/parallelassemblyline/Div.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/parallelassemblyline/Msg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/parallelassemblyline/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/parallelassemblyline/PStreamMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/parallelassemblyline/Plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/sort/OddEvenSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/optimize/UnSafeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/singleton/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/singleton/StaticSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-demo/test-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-interview/target/classes/com/algotithm/RecursiveDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-interview/target/classes/com/algotithm/RecursiveDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-interview/target/classes/com/password/KaiSaPassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-interview/target/classes/com/password/KaiSaPassword.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/RejectThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/RejectThreadPoolDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/threadpool/ThreadPoolDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/META-INF/concorrent-demo.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/SecurityManagerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/SecurityManagerDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/AddRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/AddRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/DaemonDemo$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/DaemonDemo$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/DaemonDemo$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/DaemonDemo$B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/InterruptedDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/InterruptedDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/JoinDemo$MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/JoinDemo$MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/PriorityDemo$PriorotyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/PriorityDemo$PriorotyRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/SynchronizedDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/SynchronizedDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/ThreadClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/ThreadClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/ThreadStatusDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/ThreadStatusDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/ThreadStopDemo$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/ThreadStopDemo$User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/ThreadStopDemo$WriteObjectSafelyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/ThreadStopDemo$WriteObjectSafelyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/ThreadStopDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/ThreadStopDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/VolatileDemo$AddThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/VolatileDemo$AddThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/VolatileDemo$ChangeT.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/VolatileDemo$ChangeT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/VolatileDemo$PlusTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/VolatileDemo$PlusTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/VolatileDemo$ReadT.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/VolatileDemo$ReadT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/VolatileDemo$ReaderThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/VolatileDemo$ReaderThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/VolatileDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/base/VolatileDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/CountdownLatchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/CountdownLatchDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/ReadWriteLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/ReadWriteLockDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/ReenterLockDemo$DeadLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/ReenterLockDemo$DeadLock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/ReenterLockDemo$InterruptLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/ReenterLockDemo$InterruptLock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/ReenterLockDemo$TimeLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/ReenterLockDemo$TimeLock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/ReenterLockDemo$TryLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/ReenterLockDemo$TryLock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/ReenterLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/ReenterLockDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/SemaphoreDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/concurrent/SemaphoreDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/threadpool/CountTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/threadpool/CountTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/threadpool/RejectThreadPoolDemo$MyTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/threadpool/RejectThreadPoolDemo$MyTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/threadpool/RejectThreadPoolDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/threadpool/RejectThreadPoolDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/threadpool/ThreadFactoryDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/threadpool/ThreadFactoryDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/threadpool/ThreadPoolDemo$EchoTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/threadpool/ThreadPoolDemo$EchoTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concorrent-demo/target/classes/com/threadpool/ThreadPoolDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concorrent-demo/target/classes/com/threadpool/ThreadPoolDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt2/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt2/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt2/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt2/D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt2/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt2/Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt2/E.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt2/E.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt2/F.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt2/F.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt2/StackTraceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt2/StackTraceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt3/generic/Container.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt3/generic/Container.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt3/generic/GenericParameterTypeDemo$Temple.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt3/generic/GenericParameterTypeDemo$Temple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt3/generic/GenericParameterTypeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt3/generic/GenericParameterTypeDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt3/generic/GenericTypeInfoDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt3/generic/GenericTypeInfoDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt3/generic/GenericWildcardsTypeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt3/generic/GenericWildcardsTypeDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt3/method/MethodArgumentsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt3/method/MethodArgumentsDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt4/functional/FunctionInterfaceDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt4/functional/FunctionInterfaceDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt4/functional/FunctionInterfaceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt4/functional/FunctionInterfaceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt4/functional/SupplierDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt4/functional/SupplierDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt4/functional/SupplierDesignDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt4/functional/SupplierDesignDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession1/target/classes/charpt4/stream/StreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/lession1/target/classes/charpt4/stream/StreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtual-machine-demo/target/classes/META-INF/virtual-machine-demo.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtual-machine-demo/target/classes/com/test/FinalizeEscapeGC.class" beforeDir="false" afterPath="$PROJECT_DIR$/virtual-machine-demo/target/classes/com/test/FinalizeEscapeGC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtual-machine-demo/target/classes/com/test/OOMDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/virtual-machine-demo/target/classes/com/test/OOMDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtual-machine-demo/target/classes/com/test/OOMDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/virtual-machine-demo/target/classes/com/test/OOMDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -85,9 +72,6 @@
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="java-base-demo" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -105,167 +89,55 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\repository" />
-        <option name="mavenHome" value="D:/worksoftware/apache-maven-3.6.0" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../worksoftware/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="C:\Users\Lenovo\.m2\settings.xml" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1RpkKdrMfSDu8XuJ0YemQvx4NwW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="*LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;ForkJoinTask&#9;PSI&#9;JAVA://java.util.concurrent.ForkJoinTask&#10;Runnable&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/jre/lib/rt.jar!/java/lang/Runnable.class&#10;Thread&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;ThreadPoolEx&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;Observable&#9;PSI&#9;JAVA://java.util.Observable&#10;Observer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/jre/lib/rt.jar!/java/util/Observer.class&#10;lis&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/List.java&#10;List&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Arr&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Array&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Arrays.java&#10;Integer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Integer.java&#10;Inte&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Integer.java&#10;Collec&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collection.java&#10;Call&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/concurrent/Callable.java&#10;Predi&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Predicate.java&#10;Function&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Function.java&#10;Consu&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Consumer.java&#10;MethodHandle&#9;PSI&#9;JAVA://java.lang.invoke.MethodHandle&#10;Method&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/jre/lib/rt.jar!/java/lang/reflect/Method.class&#10;InvokeDynamic&#9;PSI&#9;JAVA://java.lang.invoke.InvokeDynamic&#10;System&#9;PSI&#9;JAVA://java.lang.System&#10;Supplier&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Supplier.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;FunctionInter&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/FunctionalInterface.java&#10;Stream&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/stream/Stream.java&#10;Runna&#9;PSI&#9;JAVA://java.lang.Runnable&#10;Collection&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collection.java&#10;Collector&#9;PSI&#9;JAVA://java.util.stream.Collector&#10;FunctionIn&#9;PSI&#9;JAVA://java.lang.FunctionalInterface&#10;Arraylist&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/ArrayList.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;SortedSe&#9;PSI&#9;JAVA://java.util.SortedSet&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;Consumer&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/function/Consumer.java&#10;Float&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Float.java&#10;Char&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Character.java&#10;Short&#9;PSI&#9;JAVA://java.lang.Short&#10;Colle&#9;PSI&#9;JAVA://java.util.Collection&#10;biC&#9;PSI&#9;JAVA://java.util.function.BiConsumer&#10;BigInteger&#9;PSI&#9;JAVA://java.math.BigInteger&#10;UnmodifiableCollection&#9;PSI&#9;JAVA://java.util.Collections.UnmodifiableCollection&#10;Enum&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Enum.java&#10;OutputS&#9;PSI&#9;JAVA://java.io.OutputStream&#10;OutPutStream&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/io/DataOutputStream.java&#10;Clone&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/lang/Cloneable.java&#10;Col&#9;FILE&#9;jar://D:/worksoftware/java/jdk1.8/src.zip!/java/util/Collections.java&#10;Builder&#9;PSI&#9;JAVA://java.util.stream.DoubleStream.Builder&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;EventListener&#9;PSI&#9;JAVA://java.util.EventListener" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../htkc/new-group/spider/pom.xml" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.38613862" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pattern.observer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.concurrent.pattern.parallelassemblyline" />
+      <recent name="com.optimize" />
+      <recent name="com.pattern.observer" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\projects\learn_projects\gupaocodepersonal\github-syn\2019\java-base-demo\lession1\src\main\java\charpt3\generic" />
       <recent name="D:\projects\learn_projects\gupaocodepersonal\github-syn\2019\java-base-demo\lession1\src\main\java" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.optimize" />
-      <recent name="com.pattern.observer" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.pattern.observer" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadLocalDemo2">
+  <component name="RunManager" selected="Application.PrimeFactor">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KaiSaPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.password.KaiSaPassword" />
-      <module name="common-interview" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.password.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OOMDemo" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.7" />
-      <option name="MAIN_CLASS_NAME" value="com.test.OOMDemo" />
-      <module name="virtual-machine-demo" />
-      <option name="VM_PARAMETERS" value="-XX:MaxDirectMemorySize=10M" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecursiveDemo" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algotithm.RecursiveDemo" />
-      <module name="common-interview" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algotithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RejectThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.threadpool.RejectThreadPoolDemo" />
-      <module name="concorrent-demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.threadpool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SuspendDemo" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.base.SuspendDemo" />
-      <module name="concorrent-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadLocalDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.optimize.ThreadLocalDemo1" />
-      <module name="concorrent-demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.optimize.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadLocalDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.optimize.ThreadLocalDemo2" />
-      <module name="concorrent-demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.optimize.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.threadpool.ThreadPoolDemo" />
-      <module name="concorrent-demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.threadpool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -308,6 +180,133 @@
       <setting name="depsClasspath" value="false" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="FutureMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.concurrent.pattern.future.FutureMain" />
+      <module name="concorrent-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.concurrent.pattern.future.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.concurrent.pattern.future.jdk.Main" />
+      <module name="concorrent-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.concurrent.pattern.future.jdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOMDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.7" />
+      <option name="MAIN_CLASS_NAME" value="com.test.OOMDemo" />
+      <module name="virtual-machine-demo" />
+      <option name="VM_PARAMETERS" value="-XX:MaxDirectMemorySize=10M" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEvenSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.concurrent.pattern.sort.OddEvenSort" />
+      <module name="concorrent-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.concurrent.pattern.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PStreamMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.concurrent.pattern.parallelassemblyline.PStreamMain" />
+      <module name="concorrent-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.concurrent.pattern.parallelassemblyline.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niukewang.PrimeFactor" />
+      <module name="concorrent-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niukewang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algotithm.RecursiveDemo" />
+      <module name="common-interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algotithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuspendDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.base.SuspendDemo" />
+      <module name="concorrent-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -316,20 +315,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="common-interview" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -382,32 +368,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Application.OOMDemo" />
       <item itemvalue="Application.RecursiveDemo" />
       <item itemvalue="Application.SuspendDemo" />
-      <item itemvalue="Application.KaiSaPassword" />
-      <item itemvalue="Application.ThreadPoolDemo" />
-      <item itemvalue="Application.RejectThreadPoolDemo" />
-      <item itemvalue="Application.ThreadLocalDemo1" />
-      <item itemvalue="Application.ThreadLocalDemo2" />
+      <item itemvalue="Application.FutureMain" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.PStreamMain" />
+      <item itemvalue="Application.OddEvenSort" />
+      <item itemvalue="Application.PrimeFactor" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadLocalDemo2" />
-        <item itemvalue="Application.ThreadLocalDemo1" />
-        <item itemvalue="Application.ThreadPoolDemo" />
-        <item itemvalue="Application.RejectThreadPoolDemo" />
-        <item itemvalue="Application.KaiSaPassword" />
+        <item itemvalue="Application.PrimeFactor" />
+        <item itemvalue="Application.OddEvenSort" />
+        <item itemvalue="Application.PStreamMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FutureMain" />
       </list>
     </recent_temporary>
   </component>
@@ -490,71 +467,94 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592835741178">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592835741178" />
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1593353419099">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="718" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1593745721205">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1593353419099" />
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1593000490685">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="718" y="153" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593745721205" />
+    <state x="852" y="383" key="#xdebugger.evaluate" timestamp="1593743327545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="852" y="383" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1593743327545" />
+    <state width="410" height="466" key="DebuggerActiveHint" timestamp="1593502950208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="410" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1593502950208" />
+    <state x="686" y="215" key="FileChooserDialogImpl" timestamp="1593420152784">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593000490685" />
-    <state width="1493" height="299" key="GridCell.Tab.0.bottom" timestamp="1593354061917">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="686" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593420152784" />
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1594002647594">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="299" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593354061917" />
-    <state width="1493" height="299" key="GridCell.Tab.0.center" timestamp="1593354061916">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594002647594" />
+    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1594002647593">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="299" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593354061916" />
-    <state width="1493" height="299" key="GridCell.Tab.0.left" timestamp="1593354061916">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594002647593" />
+    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1594002647593">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="299" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593354061916" />
-    <state width="1493" height="299" key="GridCell.Tab.0.right" timestamp="1593354061916">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594002647593" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1594002647594">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="299" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593354061916" />
-    <state width="1493" height="182" key="GridCell.Tab.1.bottom" timestamp="1592134086427">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594002647594" />
+    <state width="1877" height="386" key="GridCell.Tab.1.bottom" timestamp="1593743487221">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="182" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592134086427" />
-    <state width="1493" height="182" key="GridCell.Tab.1.center" timestamp="1592134086426">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="386" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593743487221" />
+    <state width="1877" height="386" key="GridCell.Tab.1.center" timestamp="1593743487221">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="182" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592134086426" />
-    <state width="1493" height="182" key="GridCell.Tab.1.left" timestamp="1592134086426">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="386" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593743487221" />
+    <state width="1877" height="386" key="GridCell.Tab.1.left" timestamp="1593743487220">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="182" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592134086426" />
-    <state width="1493" height="182" key="GridCell.Tab.1.right" timestamp="1592134086427">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="386" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593743487220" />
+    <state width="1877" height="386" key="GridCell.Tab.1.right" timestamp="1593743487221">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="182" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592134086427" />
-    <state x="272" y="0" key="SettingsEditor" timestamp="1592835747716">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="386" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593743487221" />
+    <state x="340" y="0" key="SettingsEditor" timestamp="1593506899822">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592835747716" />
+    <state x="340" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593506899822" />
     <state x="490" y="154" width="546" height="524" key="StructurePopup" timestamp="1592137140962">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="154" width="546" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1592137140962" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592835770779">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="334" y="180" key="new project wizard" timestamp="1593661861232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1593661861232" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1594020022511">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592835770779" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594020022511" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

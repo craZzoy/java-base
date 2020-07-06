@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/common-interview/common-interview.iml" filepath="$PROJECT_DIR$/common-interview/common-interview.iml" />
       <module fileurl="file://$PROJECT_DIR$/concorrent-demo/concorrent-demo.iml" filepath="$PROJECT_DIR$/concorrent-demo/concorrent-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-patterns-demo/design-patterns-demo.iml" filepath="$PROJECT_DIR$/design-patterns-demo/design-patterns-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/io-demo/io-demo.iml" filepath="$PROJECT_DIR$/io-demo/io-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-base-demo.iml" filepath="$PROJECT_DIR$/java-base-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/lession1/lession1.iml" filepath="$PROJECT_DIR$/lession1/lession1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-demo/test-demo.iml" filepath="$PROJECT_DIR$/test-demo/test-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/virtual-machine-demo/virtual-machine-demo.iml" filepath="$PROJECT_DIR$/virtual-machine-demo/virtual-machine-demo.iml" />
     </modules>
   </component>
