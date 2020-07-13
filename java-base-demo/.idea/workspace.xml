@@ -20,41 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03d3d345-c404-4e76-88d1-3ceea26a7db7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/future/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/future/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/future/FutureData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/future/FutureMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/future/RealData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/future/jdk/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/future/jdk/RealData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/parallelassemblyline/Div.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/parallelassemblyline/Msg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/parallelassemblyline/Multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/parallelassemblyline/PStreamMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/parallelassemblyline/Plus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/concurrent/pattern/sort/OddEvenSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/optimize/UnSafeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/singleton/LazySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-demo/src/main/java/com/pattern/singleton/StaticSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-demo/test-demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/relatedtojava8/AskThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/relatedtojava8/AysnCompletableFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/relatedtojava8/CombineCompletableFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concorrent-demo/src/main/java/com/relatedtojava8/CompletableFutureExceptionDeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-demo/io-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-demo/src/test/java/com/example/AssertionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-demo/src/test/java/com/example/AssumptionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-demo/src/test/java/com/example/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-demo/src/test/java/com/example/DisabledClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-demo/src/test/java/com/example/DisabledTestsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-demo/src/test/java/com/example/HamcrestAssertionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-demo/src/test/java/com/example/LifeCycleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-demo/src/test/java/com/example/MyFirstJunitJupiterTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-demo/src/test/java/com/example/OrderTestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-demo/src/test/java/com/example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-demo/src/test/java/com/example/TestingAStackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-demo/src/test/java/com/example/annotation/Fast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-demo/src/test/java/com/example/annotation/FastTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-demo/src/test/resources/junit-platform.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-demo/test-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test-demo/test-demo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +64,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="AnnotationType" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -112,28 +100,29 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spring-all/spring-all/springcloud-demo/pom.xml" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.38613862" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.pattern.observer" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.concurrent.pattern.parallelassemblyline" />
-      <recent name="com.optimize" />
-      <recent name="com.pattern.observer" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\projects\learn_projects\gupaocodepersonal\github-syn\2019\java-base-demo\lession1\src\main\java\charpt3\generic" />
       <recent name="D:\projects\learn_projects\gupaocodepersonal\github-syn\2019\java-base-demo\lession1\src\main\java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.relatedtojava8" />
+      <recent name="com.concurrent.pattern.parallelassemblyline" />
+      <recent name="com.optimize" />
+      <recent name="com.pattern.observer" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pattern.observer" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.PrimeFactor">
+  <component name="RunManager" selected="JUnit.TestingAStackDemo">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -189,34 +178,6 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="FutureMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.concurrent.pattern.future.FutureMain" />
-      <module name="concorrent-demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.concurrent.pattern.future.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.concurrent.pattern.future.jdk.Main" />
-      <module name="concorrent-demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.concurrent.pattern.future.jdk.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OOMDemo" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.7" />
       <option name="MAIN_CLASS_NAME" value="com.test.OOMDemo" />
@@ -225,48 +186,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OddEvenSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.concurrent.pattern.sort.OddEvenSort" />
-      <module name="concorrent-demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.concurrent.pattern.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PStreamMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.concurrent.pattern.parallelassemblyline.PStreamMain" />
-      <module name="concorrent-demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.concurrent.pattern.parallelassemblyline.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimeFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.niukewang.PrimeFactor" />
-      <module name="concorrent-demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.niukewang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,12 +226,104 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LifeCycleDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.LifeCycleDemo" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LifeCycleDemo.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.LifeCycleDemo" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTestDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.OrderTestDemo" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestingAStackDemo$WhenNew" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.TestingAStackDemo$WhenNew" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestingAStackDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.TestingAStackDemo" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
@@ -372,19 +383,19 @@
       <item itemvalue="Application.OOMDemo" />
       <item itemvalue="Application.RecursiveDemo" />
       <item itemvalue="Application.SuspendDemo" />
-      <item itemvalue="Application.FutureMain" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.PStreamMain" />
-      <item itemvalue="Application.OddEvenSort" />
-      <item itemvalue="Application.PrimeFactor" />
+      <item itemvalue="JUnit.OrderTestDemo" />
+      <item itemvalue="JUnit.LifeCycleDemo.test1" />
+      <item itemvalue="JUnit.LifeCycleDemo" />
+      <item itemvalue="JUnit.TestingAStackDemo" />
+      <item itemvalue="JUnit.TestingAStackDemo$WhenNew" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeFactor" />
-        <item itemvalue="Application.OddEvenSort" />
-        <item itemvalue="Application.PStreamMain" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.FutureMain" />
+        <item itemvalue="JUnit.TestingAStackDemo" />
+        <item itemvalue="JUnit.TestingAStackDemo$WhenNew" />
+        <item itemvalue="JUnit.LifeCycleDemo" />
+        <item itemvalue="JUnit.LifeCycleDemo.test1" />
+        <item itemvalue="JUnit.OrderTestDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -475,15 +486,31 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="724" y="148" width="467" height="747" key="#Auto_Import" timestamp="1594024636214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="148" width="467" height="747" key="#Auto_Import/0.0.1920.1040@0.0.1920.1040" timestamp="1594024636214" />
+    <state x="541" y="134" key="#MyFirstJunitJupiterTests" timestamp="1594093169162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="541" y="134" key="#MyFirstJunitJupiterTests/0.0.1920.1040@0.0.1920.1040" timestamp="1594093169162" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1594092739344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1594092739344" />
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592835741178">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592835741178" />
-    <state x="718" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1593745721205">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1594106919267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594106919267" />
+    <state x="718" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1594105255739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1593353419099" />
-    <state x="718" y="153" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593745721205" />
+    <state x="718" y="153" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594105255739" />
     <state x="852" y="383" key="#xdebugger.evaluate" timestamp="1593743327545">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -492,51 +519,51 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="410" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1593502950208" />
-    <state x="686" y="215" key="FileChooserDialogImpl" timestamp="1593420152784">
+    <state x="686" y="215" key="FileChooserDialogImpl" timestamp="1594114752546">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593000490685" />
-    <state x="686" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593420152784" />
-    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1594002647594">
+    <state x="686" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594114752546" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1594177011592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="299" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593354061917" />
-    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594002647594" />
-    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1594002647593">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594177011592" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1594177011592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="299" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593354061916" />
-    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594002647593" />
-    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1594002647593">
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594177011592" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1594177011591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="299" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593354061916" />
-    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594002647593" />
-    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1594002647594">
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594177011591" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1594177011592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="299" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593354061916" />
-    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594002647594" />
-    <state width="1877" height="386" key="GridCell.Tab.1.bottom" timestamp="1593743487221">
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594177011592" />
+    <state width="1877" height="410" key="GridCell.Tab.1.bottom" timestamp="1594106532658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="182" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592134086427" />
-    <state width="1877" height="386" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593743487221" />
-    <state width="1877" height="386" key="GridCell.Tab.1.center" timestamp="1593743487221">
+    <state width="1877" height="410" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594106532658" />
+    <state width="1877" height="410" key="GridCell.Tab.1.center" timestamp="1594106532658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="182" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592134086426" />
-    <state width="1877" height="386" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593743487221" />
-    <state width="1877" height="386" key="GridCell.Tab.1.left" timestamp="1593743487220">
+    <state width="1877" height="410" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594106532658" />
+    <state width="1877" height="410" key="GridCell.Tab.1.left" timestamp="1594106532658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="182" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592134086426" />
-    <state width="1877" height="386" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593743487220" />
-    <state width="1877" height="386" key="GridCell.Tab.1.right" timestamp="1593743487221">
+    <state width="1877" height="410" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594106532658" />
+    <state width="1877" height="410" key="GridCell.Tab.1.right" timestamp="1594106532658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="182" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592134086427" />
-    <state width="1877" height="386" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593743487221" />
+    <state width="1877" height="410" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594106532658" />
     <state x="340" y="0" key="SettingsEditor" timestamp="1593506899822">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -546,23 +573,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="154" width="546" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1592137140962" />
-    <state x="334" y="180" key="new project wizard" timestamp="1593661861232">
+    <state x="334" y="180" key="new project wizard" timestamp="1594020597134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1593661861232" />
-    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1594020022511">
+    <state x="334" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594020597134" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1594178940860">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592835770779" />
-    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594020022511" />
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594178940860" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java_base_demo$SynchronizedDemo.ic" NAME="SynchronizedDemo Coverage Results" MODIFIED="1571236850691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.base.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_base_demo$MyFirstJunitJupiterTests.ic" NAME="MyFirstJunitJupiterTests Coverage Results" MODIFIED="1594093202812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.*</FILTER>
     </SUITE>
   </component>
 </project>
