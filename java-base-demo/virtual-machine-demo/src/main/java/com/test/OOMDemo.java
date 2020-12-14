@@ -7,23 +7,32 @@ import sun.misc.Unsafe;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 
 public class OOMDemo {
 
     public static void main(String[] args) {
-        //testHeapOOM();
+        testHeapOOM();
         //System.gc();
 
         //testStackOOM();
 
         //testPermSize();
-        testDirectSpaceOOM();
+        //testDirectSpaceOOM();
     }
 
     static class OOMObject {
 
+        private LocalDateTime now;
+
+        public OOMObject() {
+        }
+
+        public OOMObject(LocalDateTime now) {
+            this.now = now;
+        }
     }
 
     /**
@@ -31,6 +40,7 @@ public class OOMDemo {
      * VM args：-Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError
      */
     public static void testHeapOOM() {
+        System.out.println("testHeapOOM");
         List<OOMObject> oomObjects = new ArrayList<>();
         while (true) {
             try {
@@ -38,7 +48,7 @@ public class OOMDemo {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            oomObjects.add(new OOMObject());
+            oomObjects.add(new OOMObject(LocalDateTime.now()));
         }
     }
 

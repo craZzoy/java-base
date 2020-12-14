@@ -20,9 +20,7 @@ public class AskThread implements Runnable{
     public void run() {
         try {
             System.out.println(cf.get() * cf.get());
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        } catch (ExecutionException e) {
+        } catch (InterruptedException | ExecutionException e) {
             e.printStackTrace();
         }
     }
