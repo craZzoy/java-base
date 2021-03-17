@@ -16,6 +16,7 @@
         <module>concorrent-demo</module>
         <module>test-demo</module>
         <module>io-demo</module>
+        <module>java8-demo</module>
     </modules>
 
     <dependencyManagement>
