@@ -1,14 +1,9 @@
 package com.optional;
 
-import com.entity.Car;
+import com.entity.Insurance;
 import com.entity.Person;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 import java.util.Optional;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 /**
  * @Description:
@@ -19,7 +14,9 @@ public class OptionalDemo {
 
     public static void main(String[] args) {
         Person person = new Person();
-        System.out.println(getCarInsuranceNameUnsafely(person));
+        //System.out.println(getCarInsuranceNameUnsafely(person));
+
+        testSimpleMap();
     }
 
 
@@ -30,6 +27,15 @@ public class OptionalDemo {
      */
     public static String getCarInsuranceNameUnsafely (Person person){
         return person.getCar().getInsurance().getName();
+    }
+
+
+    public static void testSimpleMap(){
+        Insurance insurance = new Insurance();
+        final Optional<Insurance> insurance1 = Optional.ofNullable(insurance);
+        //insurance1 允许为空
+        final Optional<String> s = insurance1.map(Insurance::getName);
+        System.out.println(s.orElse("Deafult"));
     }
 
 
