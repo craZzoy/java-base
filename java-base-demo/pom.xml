@@ -17,6 +17,7 @@
         <module>test-demo</module>
         <module>io-demo</module>
         <module>java8-demo</module>
+        <module>redission-demo</module>
     </modules>
 
     <dependencyManagement>

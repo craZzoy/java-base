@@ -8,6 +8,9 @@ import java.util.stream.Stream;
  */
 public class StreamDemo {
     public static void main(String[] args) {
+        int i = 0;
+        System.out.println(i++);
+        System.out.println(i=i+1);
 
         //排序
         sort(4, 6, 3, 7, 4, 8, 8, 9, 0);

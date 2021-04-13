@@ -26,7 +26,7 @@ public class InterruptedDemo {
                 } catch (InterruptedException e) {
                     //sleep中断处理逻辑
                     System.out.println("interrupted when sleep");
-                    //使下一次循环能走中断逻辑
+                    //使下一次循环能走中断逻辑，若不清空，线程状态会变为terminated
                     Thread.currentThread().interrupt();
                 }
                 Thread.yield();

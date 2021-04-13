@@ -1,6 +1,7 @@
 package com.optional;
 
 import com.entity.Car;
+import com.entity.Insurance;
 import com.entity.Person;
 
 import java.util.ArrayList;
@@ -19,7 +20,10 @@ public class OptionalDemo {
 
     public static void main(String[] args) {
         Person person = new Person();
-        System.out.println(getCarInsuranceNameUnsafely(person));
+        //System.out.println(getCarInsuranceNameUnsafely(person));
+
+        Person p = null;
+        Optional<Person> person1 = Optional.ofNullable(p).map(p1 -> p1);
     }
 
 
@@ -32,6 +36,21 @@ public class OptionalDemo {
         return person.getCar().getInsurance().getName();
     }
 
+
+    /**
+     * 两个Optional对象组合
+     */
+
+    /**
+     * 找到最便宜的保险公司
+     * @param person
+     * @param car
+     * @return
+     */
+    public static Insurance findCheapestInsurance(Person person, Car car){
+        //查询数据，对比
+        return new Insurance();
+    }
 
 
 
