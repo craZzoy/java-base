@@ -18,6 +18,9 @@
         <module>io-demo</module>
         <module>java8-demo</module>
         <module>redission-demo</module>
+        <module>collection</module>
+        <module>data-structure</module>
+        <module>deep-in-mybatis</module>
     </modules>
 
     <dependencyManagement>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mybatis.mapper.BlogMapper">
+    
+    <resultMap id="detailedBlogResultMap" type="Blog">
+        <!--<id property="id" column="id" />-->
+        <!-- 构造函数映射 -->
+        <constructor>
+            <idArg column="id" javaType="java.lang.Integer"></idArg>
+        </constructor>
+        <result property="title" javaType="java.lang.String" jdbcType="VARCHAR" column="title" />
+        <!-- 对象属性的嵌套映射 -->
+        <association property="author" resultMap="authorResult"/>
+        <!-- 集合属性的映射，也是一个匿名的嵌套映射 -->
+        <collection property="posts" ofType="com.mybatis.domain.Post">
+            <id property="id" column="post_id"/>
+            <result property="content" column="content"/>
+            <association property="author" resultMap="authorResult"/>
+        </collection>
+    </resultMap>
+
+    <resultMap id="authorResult" type="com.mybatis.domain.Author">
+        <id property="id" column="id"/>
+        <result property="username" javaType="java.lang.String" jdbcType="VARCHAR" column="username"/>
+        <result property="password" javaType="java.lang.String" jdbcType="VARCHAR" column="password"/>
+        <result property="password" javaType="java.lang.String" jdbcType="VARCHAR" column="password"/>
+        <result property="email" javaType="java.lang.String" jdbcType="VARCHAR" column="email"/>
+    </resultMap>
+
+    <select id="selectBlog" resultType="Blog">
+        select * from blog where id = #{id}
+    </select>
+    
+    
+    <select id="selectBlogDetail" resultMap="detailedBlogResultMap">
+        select b.id, b.title, b.author_id,
+        a.username, a.password, a.email,
+        p.id as post_id, p.content
+        from blog b left outer join author a on b.author_id = a.id
+        left outer join post p on b.id = p.blog_id
+        where b.id = #{id}
+    </select>
+
+</mapper>
