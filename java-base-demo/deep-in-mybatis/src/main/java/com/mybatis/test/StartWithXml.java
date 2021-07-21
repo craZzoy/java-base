@@ -2,6 +2,7 @@ package com.mybatis.test;
 
 
 import com.mybatis.domain.Blog;
+import com.mybatis.mapper.BlogMapper;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
@@ -26,8 +27,11 @@ public class StartWithXml {
         SqlSession sqlSession = sqlSessionFactory.openSession();
         Map<String, Object> param = new HashMap<>();
         param.put("id", 1);
-        Blog blog = (Blog) sqlSession.selectOne("com.mybatis.mapper.BlogMapper.selectBlogDetail", param);
-        System.out.println(blog);
+        //Blog blog = (Blog) sqlSession.selectOne("com.mybatis.mapper.BlogMapper.selectBlogDetail", param);
+        //System.out.println(blog);
+
+        BlogMapper mapper = sqlSession.getMapper(BlogMapper.class);
+        System.out.println(mapper.getTime());
     }
 
 }

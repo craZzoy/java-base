@@ -8,4 +8,6 @@ public interface BlogMapper {
 
     Blog selectBlogDetail(Integer id);
 
+    String getTime();
+
 }
