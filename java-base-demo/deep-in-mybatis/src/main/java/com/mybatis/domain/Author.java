@@ -14,6 +14,13 @@ public class Author implements Serializable {
 
     private String email;
 
+    public Author(Integer id, String username, String password, String email) {
+        this.id = id;
+        this.username = username;
+        this.password = password;
+        this.email = email;
+    }
+
     public int getId() {
         return id;
     }
@@ -44,5 +51,15 @@ public class Author implements Serializable {
 
     public void setEmail(String email) {
         this.email = email;
+    }
+
+    @Override
+    public String toString() {
+        return "Author{" +
+                "id=" + id +
+                ", username='" + username + '\'' +
+                ", password='" + password + '\'' +
+                ", email='" + email + '\'' +
+                '}';
     }
 }
