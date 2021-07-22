@@ -29,6 +29,8 @@
         <result property="email" javaType="java.lang.String" jdbcType="VARCHAR" column="email"/>
     </resultMap>
 
+    <cache></cache>
+
     <select id="selectBlog" resultType="Blog">
         select * from blog where id = #{id}
     </select>
@@ -41,6 +43,14 @@
         from blog b left outer join author a on b.author_id = a.id
         left outer join post p on b.id = p.blog_id
         where b.id = #{id}
+    </select>
+
+    <select id="getTime" resultType="String" databaseId="mysql">
+        select now() from dual
+    </select>
+
+    <select id="getTime" resultType="String" databaseId="oracle">
+        select  'oralce'||to_char(sysdate,'yyyy-mm-dd hh24:mi:ss')  from dual
     </select>
 
 </mapper>
